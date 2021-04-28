@@ -1,0 +1,50 @@
+command : listAll	Kiev->Budapest	30/04/2020
+LH7366	KBP->SOF||TK8994	SOF->CDG||TK9156	CDG->BUD	17:45/350
+TK8739	KBP->FCO||TK4074	FCO->CDG||TK9156	CDG->BUD	13:00/310
+KL8222	KBP->ATH||LH4696	ATH->FCO||TK4074	FCO->CDG||TK9156	CDG->BUD	13:15/415
+KL8222	KBP->ATH||LH0893	ATH->TXL||LH9137	TXL->BUD	11:35/480
+
+
+command : listProper	Kiev->Budapest	30/04/2020
+TK8739	KBP->FCO||TK4074	FCO->CDG||TK9156	CDG->BUD	13:00/310
+KL8222	KBP->ATH||LH0893	ATH->BRU||LH9137	BRU->BUD	11:35/480
+
+
+command : listCheapest	Kiev->Budapest	30/04/2020
+TK8739	KBP->FCO||TK4074	FCO->CDG||TK9156	CDG->BUD	13:00/310
+
+
+command : listQuickest	Kiev->Budapest	30/04/2020
+KL8222	KBP->ATH||LH0893	ATH->BRU||LH9137	BRU->BUD	11:35/480
+
+
+command : listCheaper	Kiev->Budapest	30/04/2020	490
+TK8739	KBP->FCO||TK4074	FCO->CDG||TK9156	CDG->BUD	13:00/310
+KL8222	KBP->ATH||LH0893	ATH->BRU||LH9137	BRU->BUD	11:35/480
+
+
+command : listQuicker	Kiev->Budapest	30/04/2020	01/05/2020 09:00 Fri
+TK8739	KBP->FCO||TK4074	FCO->CDG||TK9156	CDG->BUD	13:00/310
+KL8222	KBP->ATH||LH0893	ATH->BRU||LH9137	BRU->BUD	11:35/480
+
+
+command : listExcluding	Kiev->Budapest	30/04/2020	LH
+No suitable flight plan is found
+
+
+command : listOnlyFrom	Kiev->Budapest	30/04/2020	TK
+TK8739	KBP->FCO||TK4074	FCO->CDG||TK9156	CDG->BUD	13:00/310
+
+
+command : diameterOfGraph
+The diameter of graph : 350
+
+
+command : pageRankOfNodes
+KBP : 0.059
+FCO : 0.174
+SOF : 0.076
+TXL : 0.166
+ATH : 0.076
+CDG : 0.134
+BUD : 0.314

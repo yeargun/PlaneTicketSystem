@@ -1,0 +1,7 @@
+Paris	CDG	ORY	BVA
+Rome	FCO	CIA
+Athens	ATH
+Sofia	SOF
+Brussels	BRU	CRL
+Budapest	BUD
+Kiev	KBP	IEV

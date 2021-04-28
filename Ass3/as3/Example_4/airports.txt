@@ -1,0 +1,35 @@
+Vienna	VIE
+Brussels	BRU	CRL
+Sofia	SOF
+Prague	PRG
+Copenhagen	CPH
+Helsinki	HEL
+Paris	CDG	ORY	BVA
+Berlin	TXL	SXF
+Athens	ATH
+Budapest	BUD
+Dublin	DUB
+Rome	FCO	CIA
+Amsterdam	AMS
+Lisbon	LIS
+Bucharest	OTP	BBU
+Madrid	MAD
+Stockholm	ARN	BMA	NYO	VST
+London	LHR	LGW	STN	LTN	LCY	SEN
+Istanbul	IST	SAW
+Moscow	DME	VKO	SVO
+Kiev	KBP	IEV
+New York	JFK	LGA	EWR
+Oklahoma	OKC
+Houston	IAH	HOU
+Las Vegas	LAS	LSV
+Detroit	DTW	YIP
+Boston	BOS
+Philadelphia	PHL	TTN
+Los Angeles	LAX
+New Orleans	MSY
+Seattle	SEA	BFI	LKE
+Miami	MIA	FLL	MPB
+Indianapolis	IND
+Chicago	ORD	MDW	RFD	GYY
+Atlanta	ATL	PDK

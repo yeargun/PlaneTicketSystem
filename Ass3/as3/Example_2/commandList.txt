@@ -1,0 +1,10 @@
+listAll	Istanbul->Madrid	30/04/2020
+listProper	Istanbul->Madrid	30/04/2020
+listCheapest	Istanbul->Madrid	30/04/2020
+listQuickest	Istanbul->Madrid	30/04/2020
+listCheaper	Istanbul->Madrid	30/04/2020	340
+listQuicker	Istanbul->Madrid	30/04/2020	01/05/2020 09:00 Fri
+listExcluding	Istanbul->Madrid	30/04/2020	LH
+listOnlyFrom	Istanbul->Madrid	30/04/2020	TK
+diameterOfGraph
+pageRankOfNodes

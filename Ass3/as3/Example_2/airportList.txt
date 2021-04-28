@@ -1,0 +1,7 @@
+Sofia	SOF
+Paris	CDG	ORY	BVA
+Berlin	TXL	SXF
+Athens	ATH
+Rome	FCO	CIA
+Madrid	MAD
+Istanbul	IST	SAW
