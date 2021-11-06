@@ -1,8 +1,0 @@
-listAll	Kiev->Budapest	30/04/2020
-listProper	Kiev->Budapest	30/04/2020
-listCheapest	Kiev->Budapest	30/04/2020
-listQuickest	Kiev->Budapest	30/04/2020
-listCheaper	Kiev->Budapest	30/04/2020	490
-listQuicker	Kiev->Budapest	30/04/2020	01/05/2020 09:00 Fri
-listExcluding	Kiev->Budapest	30/04/2020	LH
-listOnlyFrom	Kiev->Budapest	30/04/2020	TK
